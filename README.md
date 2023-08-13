@@ -1,5 +1,5 @@
 ## 教程
-[Go 教程](https://go.timpaik.top/directory.html)
+[Go 教程](https://chai2010.cn/advanced-go-programming-book/)
 
 [Go 语言设计与实现](https://draveness.me/golang/)
 
