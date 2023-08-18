@@ -14,7 +14,8 @@
 [simple restful service](https://github.com/ExcitingFrog/go-pangu)
 
 ## Others
-k8s/docker [云原生资料库](https://lib.jimmysong.io/)
+[云原生资料库](https://lib.jimmysong.io/)
 
-算法 [leetcode 算法小抄](https://labuladong.github.io/algo/)
+[leetcode 算法小抄](https://labuladong.github.io/algo/)
 
+[Keyhole - Survey Your Mongo Land](https://github.com/simagix/keyhole)
