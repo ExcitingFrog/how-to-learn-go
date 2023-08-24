@@ -6,6 +6,10 @@
 ## 文章
 [GMP 并发调度器深度解析之手撸一个高性能 goroutine pool](https://taohuawu.club/archives/high-performance-implementation-of-goroutine-pool)
 
+[Go 设计模式](https://lailin.xyz/post/go-design-pattern.html)
+
+[设计模式](https://refactoringguru.cn/design-patterns/catalog)
+
 ## Code
 [go-beginners-6-questions](https://github.com/ExcitingFrog/go-beginners-6-questions)
 
@@ -18,4 +22,9 @@
 
 [leetcode 算法小抄](https://labuladong.github.io/algo/)
 
+## Database
+
 [Keyhole - Survey Your Mongo Land](https://github.com/simagix/keyhole)
+
+## Go repo
+
