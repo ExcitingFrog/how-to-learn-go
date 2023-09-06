@@ -1,3 +1,6 @@
+# 介绍
+这个仓库主要收集golang以及编程学习资源。
+
 ## 教程
 [Go 教程](https://chai2010.cn/advanced-go-programming-book/)
 
@@ -10,6 +13,11 @@
 
 [设计模式](https://refactoringguru.cn/design-patterns/catalog)
 
+## 书
+[凤凰架构](https://icyfenix.cn/) 
+
+[数据密集型应用系统设计](https://github.com/Vonng/ddia) 数据库相关知识，深入理解数据库以及分布式的原理。
+
 ## Code
 [go-beginners-6-questions](https://github.com/ExcitingFrog/go-beginners-6-questions)
 
@@ -18,13 +26,12 @@
 [simple restful service](https://github.com/ExcitingFrog/go-pangu)
 
 ## Others
-[云原生资料库](https://lib.jimmysong.io/)
+[云原生资料库](https://lib.jimmysong.io/) k8s istio相关的devops知识
 
-[leetcode 算法小抄](https://labuladong.github.io/algo/)
 
 ## Database
 
-[Keyhole - Survey Your Mongo Land](https://github.com/simagix/keyhole)
+[Keyhole - Survey Your Mongo Land](https://github.com/simagix/keyhole)  mongodb分析工具
 
 ## Go repo
 
