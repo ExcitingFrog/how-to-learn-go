@@ -13,6 +13,8 @@
 
 [设计模式](https://refactoringguru.cn/design-patterns/catalog)
 
+[使用 Go 和 Linux Kernel 技术探究容器化原理](https://cloud.tencent.com/developer/article/2018443)
+
 ## 书
 [凤凰架构](https://icyfenix.cn/) 
 
