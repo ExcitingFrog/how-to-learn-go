@@ -28,11 +28,14 @@
 
 [7days-golang](https://github.com/geektutu/7days-golang)
 
-[simple restful service](https://github.com/ExcitingFrog/go-pangu)
+[sample restful service](https://github.com/ExcitingFrog/xuanwu)
+
+[sample grpc service](https://github.com/ExcitingFrog/xuyu)
 
 ## Others
 [云原生资料库](https://lib.jimmysong.io/) k8s istio相关的devops知识
 
+[learn k8s](https://learnk8s.io/blog)
 
 ## Database
 
